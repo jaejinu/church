@@ -36,7 +36,7 @@ public class HomeController {
 		
 		Logger.debug(formattedNow);
 		
-		System.out.println(formattedNow+"asd");
+		System.out.println(formattedNow+"asdfasdf");
 		
 		return "/index";
 	}
